@@ -11,7 +11,7 @@
 #   Download file: ./transfer.sh -d file_token file_name
 #   Delete file: ./transfer.sh -r file_token file_name delete_token
 
-currentVersion="0.0.1"
+currentVersion="1.23.0"
 
 params=("$@")
 
